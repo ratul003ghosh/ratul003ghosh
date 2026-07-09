@@ -6,7 +6,7 @@
 
 <div align="left">
   <a href="https://github.com/ratul003ghosh">
-    <img align="right" src="https://github-stats-extended.vercel.app/api?username=ratul003ghosh&show_icons=true&theme=radical&hide_border=true" alt="Ratul's GitHub Stats" />
+    <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ratul003ghosh&theme=radical" alt="Ratul's GitHub Stats" />
   </a>
   <br>
   <ul>
@@ -23,7 +23,6 @@
 
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -38,9 +37,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Competitive+Programmer;Full-Stack+Web+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
-## My Stats
+<h2>My Stats</h2>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ratul003ghosh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ratul003ghosh&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratul003ghosh&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
