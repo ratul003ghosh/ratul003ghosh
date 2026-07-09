@@ -6,7 +6,7 @@
 
 <div align="left">
   <a href="https://github.com/ratul003ghosh">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=ratul003ghosh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Ratul's GitHub Stats" />
+    <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ratul003ghosh&theme=radical" alt="Ratul's GitHub Stats" />
   </a>
   <br>
   <ul>
@@ -41,9 +41,6 @@
 ## My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratul003ghosh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratul003ghosh&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ratul003ghosh&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratul003ghosh&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
