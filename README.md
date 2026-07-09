@@ -12,7 +12,6 @@
   <ul>
     <li>🌱 I'm currently learning <b>JAVA, C++, Python & Web Development</b></li>
     <li>💬 Ask me about <b>Algorithms, Data Structures & AI</b></li>
-
     <li>💎 Pay a visit: <b><a href="https://ratul003ghosh.github.io">https://ratul003ghosh.github.io</a></b></li>
   </ul>
 </div>
