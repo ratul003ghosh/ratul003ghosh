@@ -12,7 +12,7 @@
   <ul>
     <li>🌱 I'm currently learning <b>JAVA, C++, Python & Web Development</b></li>
     <li>💬 Ask me about <b>Algorithms, Data Structures & AI</b></li>
-    <li>📫 How to reach me: <b><a href="mailto:gratul311@gmail.com">gratul311@gmail.com</a></b></li>
+
     <li>💎 Pay a visit: <b><a href="https://ratul003ghosh.github.io">https://ratul003ghosh.github.io</a></b></li>
   </ul>
 </div>
